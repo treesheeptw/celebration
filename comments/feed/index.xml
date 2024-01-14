@@ -7,33 +7,15 @@
 	>
 <channel>
 	<title>
-	《遠距醫療網站》的留言	</title>
-	<atom:link href="https://treesheeptw.github.io/reserve/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://treesheeptw.github.io/reserve</link>
-	<description></description>
-	<lastBuildDate>Wed, 13 Dec 2023 02:10:15 +0000</lastBuildDate>
+	《⟪一顆發芽的數實日⟫》的留言	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>112學年度 學習分享會</description>
+	<lastBuildDate>Sun, 14 Jan 2024 19:16:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.2</generator>
-	<item>
-		<title>
-		「WordPress 示範留言者」發佈於〈網站第一篇文章〉的留言		</title>
-		<link>https://treesheeptw.github.io/reserve/2023/12/13/hello-world/#comment-1</link>
-
-		<dc:creator><![CDATA[WordPress 示範留言者]]></dc:creator>
-		<pubDate>Wed, 13 Dec 2023 02:10:15 +0000</pubDate>
-		<guid isPermaLink="false">https://treesheeptw.github.io/reserve/?p=1#comment-1</guid>
-
-					<description><![CDATA[網站管理員你好，這是一則預留內容留言。
-如需開始審閱、編輯及刪除留言，請前往 [控制台] 的 [留言] 頁面進行必要的操作。
-留言者個人頭像來源為 &lt;a href=&quot;https://zh-tw.gravatar.com/&quot; target=&quot;_blank&quot;&gt;Gravatar&lt;/a&gt;。]]></description>
-			<content:encoded><![CDATA[<p>網站管理員你好，這是一則預留內容留言。<br />
-如需開始審閱、編輯及刪除留言，請前往 [控制台] 的 [留言] 頁面進行必要的操作。<br />
-留言者個人頭像來源為 <a href="https://zh-tw.gravatar.com/" target="_blank">Gravatar</a>。</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>
