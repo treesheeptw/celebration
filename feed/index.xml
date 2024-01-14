@@ -9,8 +9,8 @@
 
 <channel>
 	<title>⟪一顆發芽的數實日⟫</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="https://treesheeptw.github.io/celebration/feed/" rel="self" type="application/rss+xml" />
+	<link>https://treesheeptw.github.io/celebration</link>
 	<description>112學年度 學習分享會</description>
 	<lastBuildDate>Sun, 14 Jan 2024 19:16:51 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
-	<url>./../wp-content/uploads/2024/01/吊飾去背-自訂-自訂-150x150.png</url>
+	<url>https://treesheeptw.github.io/celebration/wp-content/uploads/2024/01/吊飾去背-自訂-自訂-150x150.png</url>
 	<title>⟪一顆發芽的數實日⟫</title>
-	<link>./../index.html</link>
+	<link>https://treesheeptw.github.io/celebration</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
